@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.fb5987ab8518f8a369c2a494825f03c7.js"
+  "/precache-manifest.6869ab0e4c012082636253c19d6b63a9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "pasteleria"});
